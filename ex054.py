@@ -1,0 +1,7 @@
+a1=int(input('Digite a data de nascimento da 1° pessoa :'))
+a2=int(input('Digite a data de nascimento da 2° pessoa :'))
+a3=int(input('Digite a data de nascimento da 3° pessoa :'))
+a4=int(input('Digite a data de nascimento da 4° pessoa :'))
+a5=int(input('Digite a data de nascimento da 5° pessoa :'))
+a6=int(input('Digite a data de nascimento da 6° pessoa :'))
+a7=int(input('Digite a data de nascimento da 7° pessoa :')) 

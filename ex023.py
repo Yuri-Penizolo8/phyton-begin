@@ -1,0 +1,6 @@
+num=int(input('digite um número :'))
+n=str(num)
+u=print('unidade:{}'.format(n[3]))
+d=print('dezena:{}'.format(n[2]))
+c=print('centena:{}'.format(n[1]))
+um=print('unidade de milhar:{}'.format(n[0]))
